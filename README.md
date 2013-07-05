@@ -22,7 +22,7 @@ Install package control in Sublime Text 2 by pasting the following command into 
 ```import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')```
 Install Theme
 -------------
-I use [artillery](http://blog.benjaminwiederkehr.com/all/downloads/textmate-theme) which was originally created for Textmate but those themes ports nicely to sublime text 2. Just drop the unzipped ```Artillery.tmTheme``` file into sublimes ```packages```directory.
+I use [artillery](http://blog.benjaminwiederkehr.com/all/downloads/textmate-theme) which was originally created for Textmate but those themes ports nicely to sublime text 2. Just drop the ```Artillery.tmTheme``` file into sublimes ```packages```directory.
 Preferences Location
 --------------------
 `~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/Preferences.sublime-settings`
