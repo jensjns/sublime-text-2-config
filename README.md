@@ -5,6 +5,7 @@ My [Sublime Text 2](http://www.sublimetext.com/2) preferences.
 Package list
 ------------
 [Package Control](http://wbond.net/sublime_packages/package_control)  
+
 [All Autocomplete](https://github.com/alienhard/SublimeAllAutocomplete)  
 [jQuery](https://github.com/SublimeText/jQuery)  
 [JsFormat](https://github.com/jdc0589/JsFormat)  
@@ -14,6 +15,7 @@ Package list
 [Stylus](https://github.com/billymoon/Stylus)  
 [Wordpress](https://github.com/purplefish32/sublime-text-2-wordpress)  
 [ApacheConf.tmLanguage](https://github.com/colinta/ApacheConf.tmLanguage)  
+[nginx](https://github.com/kvs/ST2Nginx)  
 Install package control
 -----------------------
 Install package control in Sublime Text 2 by pasting the following command into the console.  
