@@ -26,3 +26,7 @@ I use [artillery](http://blog.benjaminwiederkehr.com/all/downloads/textmate-them
 Preferences Location
 --------------------
 `~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/Preferences.sublime-settings`
+
+Command Line Tool
+-----------------
+``ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ~/bin/subl``
